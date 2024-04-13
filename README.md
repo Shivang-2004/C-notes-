@@ -1,2 +1,2 @@
 # C-notes-
-Notes of C++ programming language
+Notes of C/C++ programming language
